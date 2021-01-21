@@ -1,2 +1,2 @@
 # Books
-Notes on from my reading 
+Notes from my reading 
